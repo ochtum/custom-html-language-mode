@@ -1,2 +1,1 @@
-# custom-html-language-mode
-A repository for custom HTML language mode in VS Code
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
