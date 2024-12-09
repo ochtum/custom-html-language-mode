@@ -1,1 +1,1 @@
-This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
+This project is one of the ones I created to try out about the Github Copilot Workspace. It is intended to create a custom HTML language mode.
